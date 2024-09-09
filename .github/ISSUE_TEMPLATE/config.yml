@@ -4,3 +4,8 @@ issue_templates:
     filename: instructor_hw01_review.yml
     labels: 
       - "feedback"
+  - name: "Instructor Feedback for HW - 02"
+    description: "Template for providing feedback on HW-01 assignments."
+    filename: test.md
+    labels: 
+      - "feedback"
